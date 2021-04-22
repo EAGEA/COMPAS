@@ -13,10 +13,11 @@
 	<br>
 </div>
 
-# Instructions.
+# Instructions
 
 Content of the study is located in the `src/project.ipynb` notebook.
 
 # Attributions
 
-<div>Icons made by <a href="https://www.flaticon.com/authors/dinosoftlabs" title="DinosoftLabs">DinosoftLabs</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>.</div>
+* Based on the [ProPublica analysis](https://github.com/propublica/compas-analysis).
+* Icon made by [DinosoftLabs](https://www.flaticon.com/authors/dinosoftlabs) from[Flaticon](https://www.flaticon.com/).
