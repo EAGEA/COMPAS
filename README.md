@@ -13,7 +13,7 @@
 	<br>
 </div>
 
-# Instructions.
+# Instructions
 
 Content of the study is located in the `src/project.ipynb` notebook.
 
