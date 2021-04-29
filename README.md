@@ -4,7 +4,7 @@
 	<br>
 	<br>
 	<img src="misc/icon.svg" width="200" height="200">
-    <h1>Fairness in Classification on the COMPAS datasets</h1>
+    <h1>Fairness in Classification on the COMPAS dataset</h1>
 	<p>
     <b>An analysis of the COMPAS software results using the ProPublica dataset.</b>
 	</p>
