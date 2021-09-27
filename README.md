@@ -20,4 +20,4 @@ Content of the study is located in the `src/project.ipynb` notebook.
 # Attributions
 
 * Based on the [ProPublica analysis](https://github.com/propublica/compas-analysis).
-* Icon made by [DinosoftLabs](https://www.flaticon.com/authors/dinosoftlabs) from[Flaticon](https://www.flaticon.com/).
+* Icon made by [DinosoftLabs](https://www.flaticon.com/authors/dinosoftlabs) from [Flaticon](https://www.flaticon.com/).
